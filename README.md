@@ -15,7 +15,7 @@ Ikuti langkah-langkah berikut untuk memulai proyek Laravel Anda:
    Clone repositori Laravel ke lokal Anda dengan menggunakan Git:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Ariqulazka/chirp-inertia-wysiwyg.git
    ```
 
 2. **Update Composer**
